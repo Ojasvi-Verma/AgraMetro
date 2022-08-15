@@ -1,4 +1,3 @@
-# AgraMetro
 <!DOCTYPE html>
     <html>
     <head>
@@ -8,12 +7,6 @@
       <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
     </head>
     <body>
-<h1>Privacy Policy</h1>
-<p>Last updated: August 15, 2022</p>
-<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
-<p>We do not use Your Personal data to provide and improve the Service. By using the Service, You agree with this Privacy Policy. 
-
-    
     <strong>Privacy Policy</strong> <p>
                   Ojasvi Verma built the Agra Metro app as
                   a Free app. This SERVICE is provided by
