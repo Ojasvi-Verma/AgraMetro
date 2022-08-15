@@ -1,7 +1,7 @@
-#Agra Metro 
-#Updated on 15/08/2022
+<h1> #Agra Metro </h1>
+<h2> #Updated on 15/08/2022 </h2>
 
-<strong>Privacy Policy</strong> <p>
+<h1><strong>Privacy Policy</strong></h1> <p>
               Ojasvi Verma built the Agra Metro app as
               a Free app. This SERVICE is provided by
               Ojasvi Verma at no cost and is intended for use as
@@ -20,7 +20,7 @@
               The terms used in this Privacy Policy have the same meanings
               as in our Terms and Conditions, which are accessible at
               Agra Metro unless otherwise defined in this Privacy Policy.
-            </p> <p><strong>Information Collection and Use</strong></p> <p>
+            </p> <h2><p><strong>Information Collection and Use</strong></h2> </p> <p>
               For a better experience, while using our Service, I
               may require you to provide us with certain personally
               identifiable information. The information that
@@ -31,7 +31,7 @@
               </p> <p>
                 Link to the privacy policy of third-party service providers used
                 by the app
-              </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
+              </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><h2><strong>Log Data</strong></h2></p> <p>
               I want to inform you that whenever you
               use my Service, in a case of an error in the app
               I collect data and information (through third-party
@@ -41,7 +41,7 @@
               configuration of the app when utilizing my Service,
               the time and date of your use of the Service, and other
               statistics.
-            </p> <p><strong>Cookies</strong></p> <p>
+            </p><h2> <p><strong>Cookies</strong></p></h2> <p>
               Cookies are files with a small amount of data that are
               commonly used as anonymous unique identifiers. These are sent
               to your browser from the websites that you visit and are
@@ -54,7 +54,7 @@
               and know when a cookie is being sent to your device. If you
               choose to refuse our cookies, you may not be able to use some
               portions of this Service.
-            </p> <p><strong>Service Providers</strong></p> <p>
+            </p><h2> <p><strong>Service Providers</strong></h2></p> <p>
               I may employ third-party companies and
               individuals due to the following reasons:
             </p> <ul><li>To facilitate our Service;</li> <li>To provide the Service on our behalf;</li> <li>To perform Service-related services; or</li> <li>To assist us in analyzing how our Service is used.</li></ul> <p>
@@ -63,7 +63,7 @@
               Information. The reason is to perform the tasks assigned to
               them on our behalf. However, they are obligated not to
               disclose or use the information for any other purpose.
-            </p> <p><strong>Security</strong></p> <p>
+            </p><h2> <p><strong>Security</strong></h2></p> <p>
               I value your trust in providing us your
               Personal Information, thus we are striving to use commercially
               acceptable means of protecting it. But remember that no method
@@ -79,7 +79,7 @@
               no control over and assume no responsibility for the content,
               privacy policies, or practices of any third-party sites or
               services.
-            </p> <p><strong>Children’s Privacy</strong></p> <div><p>
+            </p> <p><strong><h2>Children’s Privacy</strong></p> </h2><div><p>
                 These Services do not address anyone under the age of 13.
                 I do not knowingly collect personally
                 identifiable information from children under 13 years of age. In the case
